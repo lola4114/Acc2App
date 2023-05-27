@@ -1,0 +1,14 @@
+﻿global using CommunityToolkit.Maui;
+global using Acc2App.Models;
+global using Acc2App.Services;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using CommunityToolkit.Mvvm.Input;
+global using Acc2App.ViewModels;
+global using Acc2App.Views;
+global using System.Collections.ObjectModel;
+global using System.ComponentModel;
+global using System.Diagnostics;
+global using System.Globalization;
+global using System.Runtime.CompilerServices;
+global using System.Text.Json;
+global using System.Threading.Tasks;
